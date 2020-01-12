@@ -1,2 +1,5 @@
 /bin/
 /target/
+terraform.tfvars
+tf_backend/
+.terraform
